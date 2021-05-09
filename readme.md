@@ -1,3 +1,3 @@
-# DATA ANALYSIS WITH COMPUTER MH3511
+## Data Analysis With Computer
 
 Group Project
